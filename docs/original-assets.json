@@ -1,0 +1,42 @@
+{
+  "sourceCommit": "997d767",
+  "sourceRepository": "https://github.com/rpoless/site-ia-obeko",
+  "description": "Checksums dos sete artefatos compilados recebidos; index.html recebe apenas metadados.",
+  "assets": [
+    {
+      "path": "assets/ilustração-DX96LPBH.svg",
+      "bytes": 10808,
+      "sha256": "a3a623bfa6609282acd213d2554dce6546aed22e69fa38b68b03f8358aa12f60"
+    },
+    {
+      "path": "assets/index-CvDmgC2U.js",
+      "bytes": 279553,
+      "sha256": "2df2c217b344584424448621c83a26ffdf126e98c26edb80e7156ab2d7bee506"
+    },
+    {
+      "path": "assets/index-Dps4wcEN.css",
+      "bytes": 23617,
+      "sha256": "e43c37c5545a0c0e905450d2498ccc2b6d4035128b9421272c04462fa45808b9"
+    },
+    {
+      "path": "assets/logo-azul-DKGB_JXF.png",
+      "bytes": 8638,
+      "sha256": "5f64fcaca23e1f2f471593e5a59bc207e83604cb11ee133a9b2e5e540f271616"
+    },
+    {
+      "path": "assets/logo-azulescuro-DX5v909R.png",
+      "bytes": 8679,
+      "sha256": "e672b06575d42326b19f3cc46a33899875de57c01b4dbf838123d6e270ec27da"
+    },
+    {
+      "path": "assets/logo-offw-C-8JXIkT.png",
+      "bytes": 8724,
+      "sha256": "fdf381dc0c030c8492e690820835512333f5f8f5a86806fcc482795ea92c1d04"
+    },
+    {
+      "path": "assets/perfumes-1xkV4dEw.jpg",
+      "bytes": 43657,
+      "sha256": "47d4214f949866a29d03e947b21efcda0ca7e7a75aa6d5a836b22937af088288"
+    }
+  ]
+}

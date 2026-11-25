@@ -1,0 +1,29 @@
+{
+  "capturedAt": "2026-11-25T00:28:28.899Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "checks": [
+    "Página institucional e assets carregados em 1440 × 900.",
+    "Catálogo aberto com 52 cards e agrupamento por marca.",
+    "Primeira mensagem produz diagnóstico preliminar e perguntas de refinamento.",
+    "Segunda mensagem produz diagnóstico final e três recomendações reais.",
+    "Institucional e consultoria capturados em viewport móvel de 390 × 844."
+  ],
+  "pageErrors": [],
+  "failedRequests": [],
+  "notes": [
+    "Capturas da versão compilada original, sem respostas simuladas.",
+    "Ambiente sem rede/loopback: navegador recebeu os arquivos reais por interceptação local, no domínio de teste obeko.test; Google Fonts indisponível, fontes de fallback do CSS utilizadas."
+  ],
+  "recommendations": [
+    "Chrome Eau de Toilette",
+    "Montblanc Legend Spirit",
+    "Acqua di Giò Eau de Toilette"
+  ],
+  "mobile": {
+    "viewportWidth": 390,
+    "documentWidth": 390
+  }
+}

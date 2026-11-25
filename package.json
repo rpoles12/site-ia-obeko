@@ -1,0 +1,14 @@
+{
+  "name": "obeko-scent-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site institucional O BEKO e consultoria olfativa local em duas etapas.",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "check": "node scripts/check.mjs",
+    "capture": "node scripts/capture.mjs"
+  },
+  "engines": { "node": ">=22" },
+  "repository": { "type": "git", "url": "https://github.com/rpoless/site-ia-obeko.git" }
+}
